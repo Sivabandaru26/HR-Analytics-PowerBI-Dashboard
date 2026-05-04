@@ -32,7 +32,7 @@ Data Modeling
 
 
 # 📸 Dashboard Preview
-![Dashboard](hr-analytics-dashboard.png)
+![Dashboard](https://github.com/Sivabandaru26/HR-Analytics-PowerBI-Dashboard/blob/main/Power%20BI%20Project%20(HR%20analytics).png)
 
 # 💡 Learnings
 This project helped me understand how to convert raw HR data into meaningful business insights using interactive dashboards.
