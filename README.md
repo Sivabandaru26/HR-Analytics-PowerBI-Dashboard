@@ -22,8 +22,8 @@ Employees with fewer years at the company tend to leave more
 
 
 # 🛠 Tools Used
-Power BI
-DAX
+Power BI,
+DAX,
 Data Modeling
 
 
@@ -32,7 +32,7 @@ Data Modeling
 
 
 # 📸 Dashboard Preview
-![Dashboard](https://github.com/Sivabandaru26/HR-Analytics-PowerBI-Dashboard/blob/main/Power%20BI%20Project%20(HR%20analytics).png)
+![Dashboard](https://raw.githubusercontent.com/Sivabandaru26/HR-Analytics-PowerBI-Dashboard/main/Power%20BI%20Project%20(HR%20analytics).png)
 
 # 💡 Learnings
 This project helped me understand how to convert raw HR data into meaningful business insights using interactive dashboards.
